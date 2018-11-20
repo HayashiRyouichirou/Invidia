@@ -1,0 +1,7 @@
+/Invidia/.vs
+/Invidia/Binaries
+/Invidia/DerivedDataCache
+/Invidia/Intermediate
+/Invidia/Saved
+*.db
+*.ipch
